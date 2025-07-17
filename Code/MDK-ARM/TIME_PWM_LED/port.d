@@ -1,0 +1,12 @@
+time_pwm_led\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+time_pwm_led\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+time_pwm_led\port.o: D:\Keil5\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+time_pwm_led\port.o: D:\Keil5\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+time_pwm_led\port.o: ../Core/Inc/FreeRTOSConfig.h
+time_pwm_led\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+time_pwm_led\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+time_pwm_led\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+time_pwm_led\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+time_pwm_led\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+time_pwm_led\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+time_pwm_led\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
